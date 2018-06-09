@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Gplay</string>
+    <string name="Music">Music</string>
+    <string name="Radio">Radio</string>
+    <string name="Online">Online</string>
+    <string name="Configuration">Configuration</string>
+</resources>
